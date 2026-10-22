@@ -11,7 +11,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        a = 33;
+        a = 7;
         b = a + 12;
         c = a + b;
         speed = c;

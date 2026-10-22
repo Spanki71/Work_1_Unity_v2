@@ -11,10 +11,11 @@ public class NewMonoBehaviourScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        a = 20;
-        b = a + 100;
+        a = 33;
+        b = a + 12;
         c = a + b;
         speed = c;
+        // comment
     }
 
     // Update is called once per frame
